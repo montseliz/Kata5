@@ -1,4 +1,4 @@
-# Kata 4 
+# Kata 5 
 #### Remove
 
 Amb una classe Ordinador donada: 
